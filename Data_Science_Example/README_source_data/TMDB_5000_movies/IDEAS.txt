@@ -1,0 +1,46 @@
+Define a problem 
+Develop diagram of steps
+What I want to obtain after performing data cleaning, data wrangling, data transformation, EDA?
+Will I use the data for supervised or unsupervised training?
+For supervised learning need to explore if the data is balanced (e.g., classes are represented)? Null accurac may be a worthwhile metric. Also, need to explore if there is enough data for dividing in training testing.
+For unsupervised learning need to explore if there are discernible clusters? What is the shape of my clusters? Which clustering algorithm would be best.
+
+Insert errors outliers (negatives and very large), full duplicates, duplicate unique values, and null values. Some data is already missing in the original data for example many movies have 0 budget and 0 or very little revenue data. Depending on what I would use this for I would remove these datapoints from the dataframe or maybe keep them and filter them out. Filtering out may be more appropriate than droping and creating a default filter to start at higher value.
+
+How to handle the errors? Can we correct the Errors? In theory you would be working with a Subject Matter Expert that may be able to provide information on the data or a process to correct in the database if the database is determined to be wrong.
+
+Classes: May need to extract unique classes, create a unique list of all classes and then use the Contain to Filter (e.g., Genres or Production Companies).
+
+Notes on Classes and Classificaion: In some cases there may be a movie that was miss-classified. Depending on how the classification was done (e.g., manually) there may be some biases towards a class in some cases. Classification is not an exact science and there may be some overlap and in cases a persom making the classification decision may say this movie is adventure while another may say is action or in some cases the both classes maybe applied. In some cases there were no genre applied. This may cause challenges if trying to create an algorithm to classify. Perhaps a null class is also desirable and and SME may be able to provide input. Another note which may be applicable to genres is that the genres may change overtime, for example, a genre that exist today may not have existed 50 years ago. If trending genres by time it may also be affected. For example, there may be a genre that was applied starting in the 1950's but movies prior to 1950's could also be applicable to that genre but the genre was not applied. It is important to understand the history of a database and its features. Databases and its features can be revamped overtime. Could also trend the genres overtime to explore if this may be an issue.
+
+
+
+Before text normalization, create a derived feature of Title_Plus_Overview and normalize this feature.
+
+If it is time series is it appropriate to take the average of the two adjacent points? If plotting the total budget or revenue per year, there are some years missing. Should we leave blank or take the adjacent years as average or assume a linear trend if multiple adjacent years are missing? The following years are missing, 1943, 1928, 1926 and 1917-1924 are missing.
+
+Explore data (groupby money and category) (groupby money and language) (plot budget vs revenue) (create derived column of revenue_budget_ratio) (plot categorye by revenue_budget_ratio)
+
+Remove unneeded columns and features (link, keywords, production countries). Remove the rumored and production status and delete the column.
+
+Extract genre information as a feature or features. Note the dictionary has the id and the name. There may be a few ways to do this. Create a list of all the location 3 in the dictionary, then create all this list as columns and when contains put a 1. Extract List and Dictionary Data (note this may be similar with the multiple SPO). https://stackoverflow.com/questions/65544954/pandas-extract-values-from-a-column-with-multiple-list-of-dictionaries-and-spli
+
+Convert multilabel data to one-hot-encoding. Like Language.
+Use for, while and if statements for transforming data.
+
+Get a derived feature (revenue_minus_budget, budget_revenue_ratio). Explore correlation and plots and see if there is any other metric that we could create (e.g., revenue_runtime_ratio, budget_runtime_ratio).
+
+Trend of release dates. Extract year and month.
+
+Two features plots (budget vs. revenue, popularity vs. vote avarage) use .hist and the sns plots.
+
+Any observable clusters in the structured data?
+
+Stemming and Lemmatized columns of the overview
+Wordcloud using and filtering with the wordcloud
+Text Clustering?
+Classify a new movie description.
+Perform similarity search.
+Predict popularity and revenue given a movie description.
+
+Concepts to represent, variables, for, while, if/else statments, conditionals, defining functions, .at, .loc, .iloc, dataframe slicing, plotting.
