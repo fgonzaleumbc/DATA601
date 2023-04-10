@@ -1,0 +1,1 @@
+Lecture 08 consist of discussing the Notebooks "0_Data Science-Story Telling with Data.ipynb" and "1_Data_Cleaning_Template.ipynb" under the "Data_Science_Example" folder.
