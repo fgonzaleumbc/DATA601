@@ -1,4 +1,0 @@
-Xanthomonas	campestris	hyacinthi	LMG739	1	5	8	4	3	2	4	1
-Xanthomonas	campestris	campestris	LMG568	3	5	6	2	3	1	4	3
-Xanthomonas	campestris	phaseoli	LMG803	2	4	7	4	1	2	3	2
-Xanthomonas	campestris	hyacinthi	LMG946	2	3	6	2	1	0	1	0
