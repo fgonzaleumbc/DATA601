@@ -89,7 +89,7 @@ Each lecture material is divided into various repositories which include sample 
 | [DATA601_L06-Data_Clean_Transform_Analysis](https://github.com/fgonzaleumbc/DATA601_L06-Data_Clean_Transform_Analysis) | This repository contains class material discussing working with date time objects, using Pandas for data cleaning, data analysis, and data transformation. |
 | [DATA601_L07-Data_Visualization](https://github.com/fgonzaleumbc/DATA601_L07-Data_Visualization) | This repository discusses data visualization libraries and how to create various types of charts and when to use them. |
 | [DATA601_L08-DS_Example_Discussion](https://github.com/fgonzaleumbc/DATA601_L08-DS_Example_Discussion) | Lecture 8 discusses a data science example and use case using a movie dataset. |
-| [DATA601_L09-Databases_Files_APIs](https://github.com/fgonzaleumbc/DATA601_L09-Databases_Files_APIs) | This repostiory contains material on working with various types of files (e.g., csv, txt, PDF, etc.), working with web data and web crawling, working with application programming interfaces (API), and introduction to relational databases and working with Structured Query Language (SQL). |
+| [DATA601_L09-Databases_Files_APIs](https://github.com/fgonzaleumbc/DATA601_L09-Databases_Files_APIs) | This repostiory contains material on working with various types of files (e.g., csv, txt, PDF, etc.), working with web data and web crawling, working with application programming interfaces (API), and introduction to relational databases and working with Structured Query Language (SQL), software version control systems (e.g., Git).|
 | [DATA601_L10-Statistics](https://github.com/fgonzaleumbc/DATA601_L10-Statistics) | This repository discusses probability and statistics in the context of data science. |
 | [DATA601_L11-Supervised_ML](https://github.com/fgonzaleumbc/DATA601_L11-Supervised_ML) | This repository discusses introduction to supervised machine learning, regression models, classification models and feature selection. |
 | [DATA601_L12-Unsupervised_ML](https://github.com/fgonzaleumbc/DATA601_L12-Unsupervised_ML) | This repository discusses introduction to unsupervised machine leraning, and clustering algorithms. |
@@ -101,11 +101,13 @@ Each lecture material is divided into various repositories which include sample 
 | [DATA601_L18-RPA_Autotrending](https://github.com/fgonzaleumbc/DATA601_L18-RPA_Autotrending) | This repository contains discussions on robotic process automation (RPA) and auto trending calculations. |
 | [DATA601_L19-NLP_LLMs](https://github.com/fgonzaleumbc/DATA601_L19-NLP_LLMs) | This repostiory contains discussions and an introduction to advance NLP, generative AI, large language models (LLM), Ollama library, and agentic AI. |
 
-For questions please contact me at: 
-Felix Gonzalez, P.E.
-Adjunct Instructor, 
-Division of Professional Studies
-Computer Science and Electrical Engineering 
-University of Maryland Baltimore County 
+Although various commercial and platform specific tools such as data visualization tools (e.g., MS Power BI, Tableau) and cloud platforms (e.g., MS Azure, Amazon Web Services, Databricks) are only discussed in concept as it each has its own learning curves, costs, certifications, and other requirements. The following table provides recommended certification paths and training resources for data analyst and data scientist type positions. [Certification Paths Spreadsheet](https://docs.google.com/spreadsheets/d/1e8vvSrtGjtrkO5OrNAR8QYaCeowtCTX2/edit?usp=drive_link&ouid=103437557434463890960&rtpof=true&sd=true).
+
+For questions please contact me at:  </br>
+Felix Gonzalez, P.E. </br>
+Adjunct Instructor,  </br>
+Division of Professional Studies  </br>
+Computer Science and Electrical Engineering  </br>
+University of Maryland Baltimore County  </br>
 fgonzale@umbc.edu
 
