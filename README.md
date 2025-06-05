@@ -30,7 +30,7 @@ Other related topics include but not limited to:
 ### Data Science Lifecycle: 
 
 The following diagram shows an overview of the data science lifecycle:
-![Data_Science_Lifecycle](https://github.com/user-attachments/assets/d3f0aaf7-5b7c-45ce-aaf7-a2f3b166b73b)
+![Data_Science_Lifecycle](https://github.com/user-attachments/assets/c6e7e916-461f-4a72-92db-7804ee517e47)
 
 The above figure and overview of the data science lifecycle includes the following step descriptions:
 - Defining scope, formulating question and identifying funding
