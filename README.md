@@ -7,7 +7,7 @@ The class latest Syllabus can be found in the [Data 601 main GitHub repository](
 - [Data 601 - Data Science - Reference Guide.docx](https://github.com/fgonzaleumbc/DATA601/blob/main/DATA%20601%20-%20Data%20Science%20-%20Reference%20Guide.docx): This document contains a set of curated set of references from installing Python, important data science libraries, important datasets, and other websites.
 - [Data_Science_Introduction_Topics_Index.xlsx](https://github.com/fgonzaleumbc/DATA601/blob/main/Data_Science_Introduction_Topics_Index.xlsx): This schedule contains a detailed list of each of the lectures, a summary of topics discussed in each lectures and the tentative schedule for Homework and Project deliverables.
 
-# Applications of Data Science, Artificial Intelligence, Machine Learning, Natural Language Processing and Generative AI
+# Applications of Data Science and Related Technologies
 
 In the last decade, improvements to computing processing have allowed to use various approaches from data science and related subfields of artificial intelligence (AI), machine learning (ML), natural language processing (NLP), and Generative AI (Gen-AI), make significant contributions and efficiency gains to all fields of studies from engineering to business processes to data analysis. The class material and discussions (see "[List of Class Repositories](#List-of-Class-Repositories)" below) discusses end to end lifecycle end to end. These includes but not limited to:
 - Common programming languages used for data science (e.g., Python),
