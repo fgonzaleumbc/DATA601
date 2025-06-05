@@ -9,7 +9,7 @@ The class latest Syllabus can be found in the [Data 601 main GitHub repository](
 
 # Applications of Data Science, Artificial Intelligence, Machine Learning, Natural Language Processing and Generative AI
 
-In the last decade, improvements to computing processing have allowed to use various approaches from data science and related subfields of artificial intelligence (AI), machine learning (ML), natural language processing (NLP), and Generative AI (Gen-AI), make significant contributions and efficiency gains to all fields of studies from engineering to business processes to data analysis. The class material and discussions (see "[List of Repositories](#List-of-Repositories)" below) discusses end to end lifecycle end to end. These includes but not limited to:
+In the last decade, improvements to computing processing have allowed to use various approaches from data science and related subfields of artificial intelligence (AI), machine learning (ML), natural language processing (NLP), and Generative AI (Gen-AI), make significant contributions and efficiency gains to all fields of studies from engineering to business processes to data analysis. The class material and discussions (see "[List of Class Repositories](#List-of-Class-Repositories)" below) discusses end to end lifecycle end to end. These includes but not limited to:
 - Common programming languages used for data science (e.g., Python),
 - Data collection and storing (e.g., relational databases, SQL, etc.) and data querying,
 - Data cleaning/munging/wrangling/preparation considerations and processes,
@@ -56,18 +56,18 @@ The end goal of applications of data science and related AI and non-AI fields su
 
 These AI and non-AI approaches can be used in combination and there is overlap between fields. For example, many statistical models are considered part of machine learning, and data visualization is commonly used to show outputs of AI algorithms. There are many common  tasks that can be performed by AI:
 
-__Non-AI Tasks from Traditional Statistics and Analytic Approaches__:
+1. Non-AI Tasks from Traditional Statistics and Analytic Approaches:
 - Calculate descriptive statistics (e.g., mean, median, maximum, minimum, etc.)
 - Visualize data features to calculate trends, find patterns, tell a story
 - Measure relationship and find patterns between variables and features
 - Validate conclusions using hypothesis testing techniques
 - Data science combines all tasks to extract meaning and insights from data.
-__Supervised ML__:
+2. Supervised ML:
 - Predictive Analytics: model can predict future value. Example applications include recommendation systems, predictive maintenance, anomaly detection, and image detection/recognition.
 - Labeling/Classification: given a training dataset the model can label new data. Example applications include email classification and image recognition.
-__Unsupervised ML__:
+3. Unsupervised ML:
 - Clustering/Grouping: algorithms can group based on feature similarity. Example applications include customer segmentation, anomaly detection, text clustering.
-__NLP__:
+4. NLP:
 - Search system: information retrieval and ranking
 - Named entity recognition: system and model recognizes entities including but not limited to person names, organizations, and geographic locations
 - Text summarization: makes a text shorter while keeping original text meaning and accuracy. 
