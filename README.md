@@ -7,7 +7,74 @@ The class latest Syllabus can be found in the [Data 601 main GitHub repository](
 - [Data 601 - Data Science - Reference Guide.docx](https://github.com/fgonzaleumbc/DATA601/blob/main/DATA%20601%20-%20Data%20Science%20-%20Reference%20Guide.docx): This document contains a set of curated set of references from installing Python, important data science libraries, important datasets, and other websites.
 - [Data_Science_Introduction_Topics_Index.xlsx](https://github.com/fgonzaleumbc/DATA601/blob/main/Data_Science_Introduction_Topics_Index.xlsx): This schedule contains a detailed list of each of the lectures, a summary of topics discussed in each lectures and the tentative schedule for Homework and Project deliverables.
 
-# List of Repositories
+# Applications of Data Science, Artificial Intelligence, Machine Learning, Natural Language Processing and Generative AI
+
+In the last decade, improvements to computing processing have allowed to use various approaches from data science and related subfields of artificial intelligence (AI), machine learning (ML), natural language processing (NLP), and Generative AI (Gen-AI), make significant contributions and efficiency gains to all fields of studies from engineering to business processes to data analysis. The class material and discussions (see "[List of Repositories](#List-of-Repositories)" below) discusses end to end lifecycle end to end. These includes but not limited to:
+- Common programming languages used for data science (e.g., Python),
+- Data collection and storing (e.g., relational databases, SQL, etc.) and data querying,
+- Data cleaning/munging/wrangling/preparation considerations and processes,
+- Data transformation, data augmentation, and data pipelines,
+- Exploratory data analyses (EDA),
+
+Applications of artificial intelligence algorithms including but not limited to:
+- Supervised machine learning (e.g., regression, classification, time series)
+- Unsupervised machine learning (e.g., clustering, dimensionality reduction)
+- NLP (e.g., stopwords, TFIDF, bag of words model, similarity ranking techniques, text classification, text clustering)
+- Advance NLP and Generative AI (e.g., large language models)
+
+Other related topics include but not limited to:
+- Probability and statistics
+- Robotic Process Automation (RPA)
+- Ethics
+
+### Data Science Lifecycle: 
+
+The following diagram shows an overview of the data science lifecycle:
+![Data_Science_Lifecycle](https://github.com/user-attachments/assets/d3f0aaf7-5b7c-45ce-aaf7-a2f3b166b73b)
+
+The above figure and overview of the data science lifecycle includes the following step descriptions:
+- Defining scope, formulating question and identifying funding
+- Planning designing, procuring, developing system
+- Data Cleaning: may also be referred as data preparation, data wrangling, data transformation, data - profiling, data pipeline. This step may also include defining data transformation needed (e.g., deriving features, scaling, and/or normalization).
+- Exploratory Data Analysis (EDA) and data visualization
+- Defining task to be performed, automated, or task that the data allows to be performed
+- Define data variables and features to be used in models and algorithms (e.g., independent vs. dependent variables)
+- Applying AI/ML Algorithms: Training, testing, evaluating, verification, and validation of model and algorithm performance
+- EDA, Documentation and model deployment
+- Monitoring of the performance of the models, application, and/or process
+
+Although the focus is on data science, data, and model deployment there are other important  software development practices and operations (e.g., Agile Methodologies, Testing, DevOps, Continuous Integration/Continuous Deployment (CI/CD)) that are applied depending on the application.
+
+### AI Tasks, Approaches and Uses
+
+The end goal of applications of data science and related AI and non-AI fields such as statistics, data visualization, AI, ML, NLP, GenAI, can be used for many things. This includes:
+- Measure relationship between features (e.g., measure how an attribute(s) increases based on other attribute(s))
+- Ranking (e.g., ranking records based on similarity or importance)
+- Prediction of numerical feature based on other features (e.g., predicting future value)
+- Predicttion and assignment of labels or classes
+- Creating groups to analyze group statistics
+
+These AI and non-AI approaches can be used in combination and there is overlap between fields. For example, many statistical models are considered part of machine learning, and data visualization is commonly used to show outputs of AI algorithms. There are many common  tasks that can be performed by AI:
+
+__Non-AI Tasks from Traditional Statistics and Analytic Approaches__:
+- Calculate descriptive statistics (e.g., mean, median, maximum, minimum, etc.)
+- Visualize data features to calculate trends, find patterns, tell a story
+- Measure relationship and find patterns between variables and features
+- Validate conclusions using hypothesis testing techniques
+- Data science combines all tasks to extract meaning and insights from data.
+__Supervised ML__:
+- Predictive Analytics: model can predict future value. Example applications include recommendation systems, predictive maintenance, anomaly detection, and image detection/recognition.
+- Labeling/Classification: given a training dataset the model can label new data. Example applications include email classification and image recognition.
+__Unsupervised ML__:
+- Clustering/Grouping: algorithms can group based on feature similarity. Example applications include customer segmentation, anomaly detection, text clustering.
+__NLP__:
+- Search system: information retrieval and ranking
+- Named entity recognition: system and model recognizes entities including but not limited to person names, organizations, and geographic locations
+- Text summarization: makes a text shorter while keeping original text meaning and accuracy. 
+- Question answering: based on an input or prompt a system provides a response or output (e.g., chatbots)
+- Generative AI: given a prompt tool provide a human-like output (e.g., use large language models such as ChatGPT, Gemini, LLama, Mistral).
+
+# List of Class Repositories
 
 Each lecture material is divided into various repositories which include sample Python code and datasets. The following table includes a list of each lecture repository, its link, and a summary of discussed topics.
 
